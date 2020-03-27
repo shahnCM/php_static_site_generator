@@ -1,0 +1,11 @@
+{
+  "title": "About me",
+  "slug": "/about-me",
+  "view": "basic",
+  "img": "../../public/images/ssg.jpeg",
+  "pages": {
+    "index": "../index.html",
+    "about_me": "/"
+  },
+  "subtitle": "This is a story about how I built this static site generator"
+}
