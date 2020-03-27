@@ -1,2 +1,2 @@
 # php_static_site_generator
-Very simple static site generator using Php and blade-template-engine
+A simple static site generator written on Php which uses Laravel's blade-template-engine.
