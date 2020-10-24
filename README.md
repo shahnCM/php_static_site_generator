@@ -4,7 +4,7 @@
 
   * Run `composer install` once downloaded
   * Than you can run `php generate.php`
-  * A folder named __OUTPUT__ where the __Generated static site__ can be found
+  * The __Generated static site__ can be found in the __OUTPUT__ folder
   * For storing data `.json` file is used which are in the content directory
   * Each `.json` file holds data for individual `.html` file
   * Add/Modify them according to desire
