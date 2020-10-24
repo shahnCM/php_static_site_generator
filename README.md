@@ -3,7 +3,7 @@
 A simple static site generator written on Php which uses Laravel's blade-template-engine. 
 
   * Run `composer install` first,
-  * than you can run `php generate.php`
+  * Than you can run `php generate.php`
   * A folder named __OUTPUT__ where the generated static site can be found.
   * For storing data `.json` file is used which can be in content directory
   * Each `.json` file holds data for individual `.html` file
