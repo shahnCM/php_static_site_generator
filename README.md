@@ -1,8 +1,8 @@
 ## Php static site generator
 
-A simple static site generator written on Php which uses Laravel's blade-template-engine. 
+> A simple static site generator written on Php which uses Laravel's blade-template-engine. 
 
-  * Run `composer install` first,
+  * Run `composer install` once downloaded,
   * Than you can run `php generate.php`
   * A folder named __OUTPUT__ where the generated static site can be found.
   * For storing data `.json` file is used which can be in content directory
