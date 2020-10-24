@@ -11,4 +11,4 @@ A simple static site generator written on Php which uses Laravel's blade-templat
 
 ___Blade templates are in `resources/views` directory___
 
-To know about blade follow [laravel 5.1 documentation] (https://laravel.com/docs/5.1/blade).
+To know about blade follow [laravel 5.1 documentation](https://laravel.com/docs/5.1/blade).
