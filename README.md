@@ -1,18 +1,14 @@
-# php_static_site_generator
-A simple static site generator written on Php which uses Laravel's blade-template-engine.
+## php_static_site_generator
 
-Once you download it run "composer install" first,
+A simple static site generator written on Php which uses Laravel's blade-template-engine. 
 
-Than you can run "php generate.php"
+  * Run `composer install` first,
+  * than you can run `php generate.php`
+  * A folder named __OUTPUT__ where the generated static site can be found.
+  * For storing data `.json` file is used which can be in content directory
+  * Each `.json` file holds data for individual `.html` file
+  * Add/Modify them according to desire
 
-You will see a folder named "OUTPUT" where you will find the generated static site
+___Blade templates are in resources/views directory___
 
-For data I used .json file in content directory
-
-Each .json file holds data for individual .html file
-
-Add/Modify them according to your desire
-
-Laravel's blade template-engine is used which are in resources/views directory
-
-To know about blade follow laravel 5.1 documentation
+To know about blade follow [laravel 5.1 documentation] (https://laravel.com/docs/5.1/blade).
